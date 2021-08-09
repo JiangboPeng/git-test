@@ -11,5 +11,6 @@ public class HelloGit {
         System.out.println("HelloGit!4");
         System.out.println("HelloGit!5");
         System.out.println("HelloGit!6");
+        System.out.println("github push");
     }
 }
