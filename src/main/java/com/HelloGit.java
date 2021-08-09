@@ -9,5 +9,6 @@ public class HelloGit {
         System.out.println("HelloGit!2");
         System.out.println("HelloGit!3");
         System.out.println("HelloGit!4");
+        System.out.println("HelloGit!6");
     }
 }
